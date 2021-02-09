@@ -30,8 +30,8 @@
          "properties":[
                 {
                  "name":"startLayer",
-                 "type":"string",
-                 "value":"start_stairs"
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
