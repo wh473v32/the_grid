@@ -49,7 +49,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"mesh1.json#start_stairs"
+                 "value":"mesh_1.json#start_stairs"
                 }],
          "type":"tilelayer",
          "visible":true,
