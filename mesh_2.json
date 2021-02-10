@@ -252,6 +252,15 @@
                         }]
                 }, 
                 {
+                 "id":28,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":90,
                  "objectgroup":
                     {
