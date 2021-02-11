@@ -234,6 +234,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"lounge_1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -252,6 +257,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"lounge_2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -270,6 +280,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"lounge_3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,6 +303,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"lounge_4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -378,6 +398,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"coffee_1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -396,6 +421,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"coffee_2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -414,6 +444,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"coffee_3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -432,6 +467,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"coffee_4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
