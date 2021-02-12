@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mesh_2.jason#start_room"
+                 "value":"mesh_2.json#start_room"
                 }],
          "type":"tilelayer",
          "visible":true,
