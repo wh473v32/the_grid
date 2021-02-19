@@ -1830,6 +1830,15 @@
                         }]
                 }, 
                 {
+                 "id":26,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":32,
                  "properties":[
                         {
@@ -1911,6 +1920,15 @@
                         }]
                 }, 
                 {
+                 "id":42,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":48,
                  "objectgroup":
                     {
@@ -1934,6 +1952,15 @@
                      "x":0,
                      "y":0
                     },
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":58,
                  "properties":[
                         {
                          "name":"collides",
