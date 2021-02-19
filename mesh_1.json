@@ -256,7 +256,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lounge_1"
+                 "value":"qLYuw1HpFWNKeFup"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -279,7 +279,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lounge_2"
+                 "value":"nv7rBonx0b0ae9Bs"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -302,7 +302,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lounge_3"
+                 "value":"hjySD4BgXWbTwOeI"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -325,7 +325,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"lounge_4"
+                 "value":"AnceQVNYqzw0J4b2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -348,7 +348,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"conference_1"
+                 "value":"1xgAETTJPek5Lntl"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -366,7 +366,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"conference_2"
+                 "value":"eg0zxuVTJiutSsDO"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -384,7 +384,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"conference_3"
+                 "value":"8HDxtnWRmksjR7Py"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -402,7 +402,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"conference_4"
+                 "value":"cqHKawPPtJbUgRwm"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -420,7 +420,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"coffee_1"
+                 "value":"Yrp0ay0JJ1Hrqc6A"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -443,7 +443,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"coffee_2"
+                 "value":"acxO0LrxMgV1zSVs"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -466,7 +466,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"coffee_3"
+                 "value":"r826IN42UTvesmEF"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -489,7 +489,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"coffee_4"
+                 "value":"wmKm3HQDOZThJPoF"
                 }, 
                 {
                  "name":"jitsiTrigger",
